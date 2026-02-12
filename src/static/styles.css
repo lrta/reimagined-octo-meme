@@ -136,6 +136,29 @@ button:hover {
   display: none;
 }
 
+.participants-section {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.participants-list {
+  margin-left: 20px;
+  margin-top: 8px;
+  list-style-type: disc;
+}
+
+.participants-list li {
+  padding: 4px 0;
+  color: #555;
+  font-size: 14px;
+}
+
+.participants-list em {
+  color: #999;
+  font-style: italic;
+}
+
 footer {
   text-align: center;
   margin-top: 30px;
